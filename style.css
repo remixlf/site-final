@@ -1,0 +1,50 @@
+
+html{
+    background-color: black;
+    font-family: 'Rubik', sans-serif;
+}
+h2{
+ text-align: justify;
+ color: white;
+}
+#descricao{
+    font-size: 17px;
+    color: white;
+}
+#lista{
+    font-size: 17px;
+    color: white;
+}
+#titulo{
+    padding: 9px;
+    color: white;
+}
+#texto{
+    color: white;
+}
+#foto1{
+    padding: 9px;
+border-radius: 50px;
+    position:relative;
+}
+#titulo{
+    text-align:justify;
+}
+#insta2{
+    width: 30px;
+}
+#infor2{
+    padding: 9px;
+    color:white;
+}
+#textoinsta{
+    color: white;
+}
+#linguagem{
+    color: white;
+}
+body{
+    height: 1.5px;
+    border:40px solid
+    padding-left:40px;
+}
